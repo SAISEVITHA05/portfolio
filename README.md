@@ -2,7 +2,7 @@
 
 Personal portfolio of Koredla Sai Sevitha, B.Tech student in Artificial Intelligence and Data Science at IIIT Sri City.
 
-**Live site:** https://portfolio-olive-six-rwr75sgban.vercel.app
+**Live site:** https://sevitha-portfolio.vercel.app
 
 ## What's on the site
 
